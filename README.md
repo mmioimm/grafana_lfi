@@ -1,4 +1,4 @@
-# grafana_lfi
-script for grafana_lfi
+# grafana_lfr
+script for grafana_lfr
 
-python3 grafana_lfi.py http://ww.xxx.com
+python3 grafana_lfr.py http://ww.xxx.com
