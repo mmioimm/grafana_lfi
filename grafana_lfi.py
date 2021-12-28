@@ -78,7 +78,7 @@ def exp(url):
 if __name__ == "__main__":
     print('''
 -------------------------------------
-grafana lfi script by LuckyEast >_< 
+grafana lfr script by LuckyEast >_< 
 -------------------------------------
 ''')
     url = sys.argv[1]
